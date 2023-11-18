@@ -1,0 +1,7 @@
+language: hu
+responses:
+  intents:
+    HassTurnOn:
+      light_single: "{{ slots.name }} lámpa felkapcsolva"
+    HassTurnOff:
+      light_single: "{{ slots.name }} lámpa lekapcsolva"

@@ -1,0 +1,17 @@
+language: hu
+intents:
+  HassTurnOn:
+    data:
+      - sentences:
+          - "<turn_on> (a|az) <name> (lámpát|lámpákat)"
+        slots:
+          domain: light
+        response: "light_single"
+  
+  HassTurnOff:
+    data:
+      - sentences:
+          - "<turn_off> (a|az) <name> (lámpát|lámpákat)"
+        slots:
+          domain: light
+        response: "light_single"
