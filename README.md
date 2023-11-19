@@ -1,6 +1,9 @@
 # ESPHome-Voice-Assistant-Cheechka-
 
 Eredeti projekt: https://www.facebook.com/groups/895509620623859/?multi_permalinks=2534590173382454
+
+Demo video: https://youtu.be/QEmGbse2EoY
+
 1) ESP32 Devkit - 5V szűrt táp (miniPC USB), kulonben csak recseg es nem bootol. 
    https://www.emag.ro/placa-dezvoltare-esp32-devkit-v1-ai669/pd/DXV9FDMBM/
 3) Mikrofon INMP441 = https://www.emag.ro/microfon-digital-1-4-ma-microphone-inmp441-mod/pd/DCR798MBM/
