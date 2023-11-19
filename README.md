@@ -30,4 +30,6 @@ Google Cloud STT integrálása: https://github.com/chatziko/ha-google-cloud-stt
 
 > Saját wakeword, készitése-felhasználása: https://www.home-assistant.io/voice_control/create_wake_word/
 
+> ESPHome alapok: https://esphome.io/guides/getting_started_hassio 
+
  
