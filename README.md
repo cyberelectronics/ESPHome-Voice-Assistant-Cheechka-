@@ -19,7 +19,7 @@ Egyébb linkek:
 > Bővebben az egészről (tekerj bele; Whisper felejtős, csak Google STT vagy Nabu Casa jöhet szóba): https://www.youtube.com/live/YzgYYkOrnhQ?si=le9z8jAjHA8LGLPM . 
    Még egy kis segitség: https://youtu.be/zhlIaBG3Ldo?si=DnuwGsu_6ooKxfZT
 
-> Amennyiben az ingyenes Google STT szeretnéd használni, tudnod kell, hogy 60 perc használat van ingyen (kérdezz-felelek), utána fizetős.
+> Amennyiben az ingyenes Google STT szeretnéd használni, tudnod kell, hogy havonta 60 perc használat van ingyen (kérdezz-felelek), utána fizetős.
  API key készitése: https://www.home-assistant.io/integrations/google_cloud . 
 Google Cloud STT integrálása: https://github.com/chatziko/ha-google-cloud-stt
 
