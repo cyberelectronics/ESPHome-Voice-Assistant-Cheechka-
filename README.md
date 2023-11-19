@@ -4,7 +4,7 @@ Eredeti projekt: https://www.facebook.com/groups/895509620623859/?multi_permalin
 
 Demo video: https://youtu.be/QEmGbse2EoY
 
-1) ESP32 Devkit - Vágd le a lábait, hogy beférjen a hangszóró mögé, valamint 5V szűrt táp (miniPC USB) kell neki, kulönben csak recseg és nem bootol. 
+1) ESP32 Devkit - Vágd le a lábait, hogy beférjen a hangszóró mögé, valamint 5V szűrt táp (miniPC USB) kell neki, különben csak recseg és nem bootol. 
    https://www.emag.ro/placa-dezvoltare-esp32-devkit-v1-ai669/pd/DXV9FDMBM/
 3) Mikrofon INMP441 = https://www.emag.ro/microfon-digital-1-4-ma-microphone-inmp441-mod/pd/DCR798MBM/
 4) 1db WS2812 RGB led = https://www.emag.ro/inel-led-1bit-ws2812-rgb-ai1152/pd/D21CKJMBM/
