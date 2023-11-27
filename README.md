@@ -14,9 +14,9 @@ Demo video: https://youtu.be/QEmGbse2EoY
 8) Custom intents (csatolva): https://github.com/lajoshanko/HA-custom-intents
 9) SCH módositások (csatolva; külön kell kötni a MIC és a DAC lábait): 
 
-MIC > lrclk mic (WS) > D26-rol > D13-ra
+MIC > lrclk mic (WS) > (from) D26-rol > (to) D13-ra
 
-MIC > bclk mic (SCK) > D27-rol > D12-re
+MIC > bclk mic (SCK) > (from) D27-rol > (to) D12-re
 
 Egyébb linkek:
 > Bővebben az egészről (tekerj bele; Whisper felejtős, csak Google STT vagy Nabu Casa jöhet szóba): https://www.youtube.com/live/YzgYYkOrnhQ?si=le9z8jAjHA8LGLPM . 
