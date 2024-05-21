@@ -12,6 +12,7 @@ Demo video: https://youtu.be/QEmGbse2EoY
 6) Hangszóró Amazon Basics (emag-on kapható kb. 10EUR) = https://www.emag.ro/boxe-pc-laptop-amazonbasics-cu-sunet-dinamic-si-iluminare-led-usb-c-a-3-5mm-jack-5-w-negru-v620black/pd/DTHBN2YBM/
 7) 1 led-es ESPHOme Yaml config = csatolva
 8) Custom intents (csatolva): https://github.com/lajoshanko/HA-custom-intents
+9) Rajz (csatolva): https://github.com/cyberelectronics/ESPHome-Voice-Assistant-Cheechka-/blob/main/Pictures/sch.jpg
 
 Egyébb linkek:
 > Bővebben az egészről (tekerj bele; Whisper felejtős, csak Google STT vagy Nabu Casa jöhet szóba): https://www.youtube.com/live/YzgYYkOrnhQ?si=le9z8jAjHA8LGLPM . 
