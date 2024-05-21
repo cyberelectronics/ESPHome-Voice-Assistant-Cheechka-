@@ -12,11 +12,6 @@ Demo video: https://youtu.be/QEmGbse2EoY
 6) Hangszóró Amazon Basics (emag-on kapható kb. 10EUR) = https://www.emag.ro/boxe-pc-laptop-amazonbasics-cu-sunet-dinamic-si-iluminare-led-usb-c-a-3-5mm-jack-5-w-negru-v620black/pd/DTHBN2YBM/
 7) 1 led-es ESPHOme Yaml config = csatolva
 8) Custom intents (csatolva): https://github.com/lajoshanko/HA-custom-intents
-9) SCH módositások (csatolva; külön kell kötni a MIC és a DAC lábait): 
-
-MIC > lrclk mic (WS) > (from) D26-rol > (to) D13-ra
-
-MIC > bclk mic (SCK) > (from) D27-rol > (to) D12-re
 
 Egyébb linkek:
 > Bővebben az egészről (tekerj bele; Whisper felejtős, csak Google STT vagy Nabu Casa jöhet szóba): https://www.youtube.com/live/YzgYYkOrnhQ?si=le9z8jAjHA8LGLPM . 
